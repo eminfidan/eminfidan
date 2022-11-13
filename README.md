@@ -12,3 +12,5 @@
 <a href="https://instagram.com/eminnfidann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eminnfidann" height="30" width="40" /></a>
 <a href="https://medium.com/@eminfidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eminfidan" height="30" width="40" /></a>
 </p>
+
+(https://github-readme-stats.vercel.app/api?username=eminfidann)](https://github.com/anuraghazra/github-readme-stats)
