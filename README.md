@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 
-- 📝 I regularly write articles on [https://www.medium.com/@eminfidan](https://www.medium.com/@eminfidan)
+- 💻 Im a software developer with experience in developing front-end systems.
 
-- 💬 Ask me about **Vue, Nuxt.js, React, Next.js, Chakra UI and Storybook**
+- 💬 Ask me about **React, Vue, Next.js, Nuxt.js, TailwindCSS, SCSS and Storybook**.
+
+- 🍃 Im currently learning React Native.
+
+- 📝 I regularly write articles on [https://www.medium.com/@eminfidan](https://www.medium.com/@eminfidan).
 
 - 📫 How to reach me **me@eminfidan.dev**
 
