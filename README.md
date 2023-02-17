@@ -16,3 +16,7 @@
 <a href="https://instagram.com/eminnfidann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eminnfidann" height="30" width="40" /></a>
 <a href="https://medium.com/@eminfidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eminfidan" height="30" width="40" /></a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eminfidan&theme=git-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminfidan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
