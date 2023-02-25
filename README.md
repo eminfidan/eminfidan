@@ -22,8 +22,8 @@
 
 <br/><br/>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=eminfidan&theme=git-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminfidan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=eminfidan&theme=git-dark&hide_border=true&border_radius=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminfidan&layout=compact)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=eminfidan&&style=flat-square" align="center" />
