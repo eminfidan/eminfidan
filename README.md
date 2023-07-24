@@ -15,13 +15,4 @@
 <a href="https://twitter.com/vuemin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vuemin" height="30" width="40" /></a>
 <a href="https://medium.com/@eminfidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eminfidan" height="30" width="40" /></a>
 </p>
-<br/>
-<br/>
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=eminfidan&theme=git-dark&hide_border=true&border_radius=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminfidan&layout=compact)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=eminfidan&&style=flat-square" align="center" />
-</div>  
  
